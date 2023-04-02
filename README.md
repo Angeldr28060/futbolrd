@@ -121,10 +121,10 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
 <h1><b>ㅤselección dominicana</h1></b>
   <div class="w3-row-padding w3-padding-16" id="about">
     <div class="w3-col m6">
-      <img src="https://cdndeportes.com.do/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-27-at-8.29.54-PM.jpeg" alt="Me" style="width:100%">
+      <img src="https://pbs.twimg.com/media/FU7UKi8WQAAxl7H.jpg" alt="Me" style="width:100%">
     </div>
     <div class="w3-col m6">
-      <img src="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt4ea8772cf135ab87/60dad0d2cbc6070f5c39143c/23bc2158c3e98d9faad5eba650bf95096ba2752f.jpg" alt="Me" style="width:100%">
+      <img src="https://eldiariony.com/wp-content/uploads/sites/2/2022/07/GettyImages-1241616282-e1656772974835.jpg?quality=75&strip=all&w=1200&h=800&crop=1" alt="Me" style="width:100%">
     </div>
   </div>
   <center>
