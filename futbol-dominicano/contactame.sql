@@ -1,4 +1,5 @@
 CREATE DATABASE contactame_db;
+USE DATABASE contactame_db;
 
 CREATE TABLE mensajes (
     id INT AUTO_INCREMENT PRIMARY KEY,
